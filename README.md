@@ -1,4 +1,4 @@
-# 🚀 DevOps WebApp Pipeline
+#  DevOps WebApp Pipeline
 
 This project demonstrates a simple web application integrated with a complete DevOps pipeline using **Docker** and **GitHub Actions**. It is designed to showcase core DevOps practices such as containerization, automation, and CI/CD workflows.
 
